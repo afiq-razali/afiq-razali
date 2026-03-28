@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Afiq Razali
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on hmm, not yet decided!
+- 🌱 I’m currently learning AngularJS
 - 📫 How to reach me? afiqrazali145@gmail.com, dont be shy
-- 😄 Pronouns: He
 - ⚡ Fun fact: this is special repository!
 
 <!---
