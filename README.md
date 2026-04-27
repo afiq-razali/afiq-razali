@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Afiq Razali
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me? afiqrazali145@gmail.com, dont be shy
-- ⚡ Fun fact: this is special repository!
+- 📫 How to reach me? afiqrazali145@gmail.com
 
 <!---
 afiq-razali/afiq-razali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
