@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afiq Razali
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me? afiqrazali145@gmail.com, dont be shy
 - ⚡ Fun fact: this is special repository!
 
